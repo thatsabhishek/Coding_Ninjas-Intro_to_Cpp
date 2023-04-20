@@ -6,6 +6,9 @@ This repo includes:
     - [Check Case](./milestone1/conditionalsandloops/CheckCase.cpp)
     - [Sum of Even Numbers till N](././milestone1/conditionalsandloops/SumofEvenNumbers.cpp)
     - [Fahrenheit to Celsius Table](./milestone1/conditionalsandloops/FahrenheittoCelsiusTable.cpp)
+    - [Number Pattern 1](./milestone1/conditionalsandloops/NumberPattern1.cpp)
+    - [Number Pattern 2](./milestone1/conditionalsandloops/NumberPattern2.cpp)
+    - [Start Pattern](./milestone1/conditionalsandloops/StartPattern.cpp)
     
 # Coding Ninjas
 ## Rate my Repo ⭐!!!
