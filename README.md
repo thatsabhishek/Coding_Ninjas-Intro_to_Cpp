@@ -9,6 +9,10 @@ This repo includes:
     - [Number Pattern 1](./milestone1/conditionalsandloops/NumberPattern1.cpp)
     - [Number Pattern 2](./milestone1/conditionalsandloops/NumberPattern2.cpp)
     - [Start Pattern](./milestone1/conditionalsandloops/StartPattern.cpp)
+    - [Total Salary](./milestone1/conditionalsandloops/TotalSalary.cpp)
+    - [Sum of even & odd](./milestone1/conditionalsandloops/Sumofeven&odd.cpp)
+    - [Find power of a number](./milestone1/conditionalsandloops/Findpowerofanumber.cpp)
+
     
 # Coding Ninjas
 ## Rate my Repo ⭐!!!
