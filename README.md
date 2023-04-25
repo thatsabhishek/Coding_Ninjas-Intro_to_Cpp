@@ -12,7 +12,14 @@ This repo includes:
     - [Total Salary](./milestone1/conditionalsandloops/TotalSalary.cpp)
     - [Sum of even & odd](./milestone1/conditionalsandloops/Sumofeven&odd.cpp)
     - [Find power of a number](./milestone1/conditionalsandloops/Findpowerofanumber.cpp)
-
+  - [Patter 1](./milestone1/pattern1/)
+    - [Square Pattern](./milestone1/pattern1/SquarePattern.cpp)
+    - [Triangular Star Pattern](./milestone1/pattern1/TriangularStarPattern.cpp)
+    - [Traingle Number Pattern](./milestone1/pattern1/TriangleNumberPattern.cpp)
+    - [Reverse Number Pattern](./milestone1/pattern1/ReverseNumberPattern.cpp)
+    - [Alpha Pattern](./milestone1/pattern1/AlphaPattern.cpp)
+    - [Character Pattern](./milestone1/pattern1/CharacterPattern.cpp)
+    - [Interesting Alphabets](./milestone1/pattern1/InterestingAlphabets.cpp)
     
 # Coding Ninjas
 ## Rate my Repo ⭐!!!
