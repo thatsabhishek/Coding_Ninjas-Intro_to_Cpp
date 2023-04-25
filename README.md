@@ -20,6 +20,12 @@ This repo includes:
     - [Alpha Pattern](./milestone1/pattern1/AlphaPattern.cpp)
     - [Character Pattern](./milestone1/pattern1/CharacterPattern.cpp)
     - [Interesting Alphabets](./milestone1/pattern1/InterestingAlphabets.cpp)
+  - [Pattern 2](./milestone1/pattern2/)
+    - [Mirror Number Pattern](./milestone1/pattern2/MirrorNumberPattern.cpp)
+    - [Inverted Number Pattern](./milestone1/pattern2/InvertedNumberPattern.cpp)
+    - [Star Pattern](./milestone1/pattern2/StarPattern.cpp)
+    - [Triangle of Numbers](./milestone1/pattern2/TriangleofNumbers.cpp)
+    - [Diamond of Stars](./milestone1/pattern2/Diamondofstars.cpp)
     
 # Coding Ninjas
 ## Rate my Repo ⭐!!!
