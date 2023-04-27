@@ -26,6 +26,10 @@ This repo includes:
     - [Star Pattern](./milestone1/pattern2/StarPattern.cpp)
     - [Triangle of Numbers](./milestone1/pattern2/TriangleofNumbers.cpp)
     - [Diamond of Stars](./milestone1/pattern2/Diamondofstars.cpp)
+  - [Operators and For Loop](./milestone1/operatorsandforloop/)
+    - [Nth Fibonacci Number](./milestone1/operatorsandforloop/NthFibonacciNumber.cpp)
+    - [All Prime Numbers](./milestone1/operatorsandforloop/AllPrimeNumbers.cpp)
+    - [Count Characters](./milestone1/operatorsandforloop/CountCharacters.cpp)
     
 # Coding Ninjas
 ## Rate my Repo ⭐!!!
