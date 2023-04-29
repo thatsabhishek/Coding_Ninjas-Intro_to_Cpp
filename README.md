@@ -30,6 +30,13 @@ This repo includes:
     - [Nth Fibonacci Number](./milestone1/operatorsandforloop/NthFibonacciNumber.cpp)
     - [All Prime Numbers](./milestone1/operatorsandforloop/AllPrimeNumbers.cpp)
     - [Count Characters](./milestone1/operatorsandforloop/CountCharacters.cpp)
+    - [Sum or Product](./milestone1/operatorsandforloop/SumorProduct.cpp)
+    - [Terms of AP](./milestone1/operatorsandforloop/TermsofAP.cpp)
+    - [Reverse of a number](./milestone1/operatorsandforloop/Reverseofanumber.cpp)
+    - [Binary to decimal](./milestone1/operatorsandforloop/Binarytodecimal.cpp)
+    - [Decimal to binary](./milestone1/operatorsandforloop/DecimaltoBinary.cpp)
+    - [Square Root (Integral)](./milestone1/operatorsandforloop/SquareRoot(Integral).cpp)
+    - [Check Number sequence](./milestone1/operatorsandforloop/CheckNumbersequence.cpp)
     
 # Coding Ninjas
 ## Rate my Repo ⭐!!!
