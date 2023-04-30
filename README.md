@@ -37,6 +37,7 @@ This repo includes:
     - [Decimal to binary](./milestone1/operatorsandforloop/DecimaltoBinary.cpp)
     - [Square Root (Integral)](./milestone1/operatorsandforloop/SquareRoot(Integral).cpp)
     - [Check Number sequence](./milestone1/operatorsandforloop/CheckNumbersequence.cpp)
+- [Milestone 2](./milestone2/)
   - [Test 1](./milestone2/test1/)
     - [Pyramid Number Pattern](./milestone2/test1/PyramidNumberPattern.cpp)
     - [Number Star Pattern](./milestone2/test1/NumberStarPattern.cpp)
