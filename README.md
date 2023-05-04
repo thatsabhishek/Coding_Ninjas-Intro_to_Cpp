@@ -42,6 +42,9 @@ This repo includes:
     - [Pyramid Number Pattern](./milestone2/test1/PyramidNumberPattern.cpp)
     - [Number Star Pattern](./milestone2/test1/NumberStarPattern.cpp)
     - [Second Largest](./milestone2/test1/SecondLargest.cpp)
+  - [Functions](./milestone2/functions/)
+    - [Fahrenheit to Celsius Table](./milestone2/functions/FahrenheittoCelsiusTable.cpp)
+    - [Fibonacci Number](./milestone2/functions/FibonacciNumber.cpp)
     
 # Coding Ninjas
 ## Rate my Repo ⭐!!!
