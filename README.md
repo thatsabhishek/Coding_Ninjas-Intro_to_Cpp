@@ -45,6 +45,11 @@ This repo includes:
   - [Functions](./milestone2/functions/)
     - [Fahrenheit to Celsius Table](./milestone2/functions/FahrenheittoCelsiusTable.cpp)
     - [Fibonacci Number](./milestone2/functions/FibonacciNumber.cpp)
+  - [Arrays](./milestone2/arrays/)
+    - [Array Sum](./milestone2/arrays/arraysum.cpp)
+    - [Linear Search](./milestone2/arrays/linearsearch.cpp)
+    - [Arrange Numbers in Array](./milestone2/arrays/ArrangeNumbersinArray.cpp)
+    - [Swap Alternate](./milestone2/arrays/SwapAlternate.cpp)
     
 # Coding Ninjas
 ## Rate my Repo ⭐!!!
