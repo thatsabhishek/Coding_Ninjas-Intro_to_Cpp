@@ -50,6 +50,12 @@ This repo includes:
     - [Linear Search](./milestone2/arrays/linearsearch.cpp)
     - [Arrange Numbers in Array](./milestone2/arrays/ArrangeNumbersinArray.cpp)
     - [Swap Alternate](./milestone2/arrays/SwapAlternate.cpp)
+    - [Find Unique](./milestone2/arrays/FindUnique.cpp)
+    - [Find Duplicate](./milestone2/arrays/FindDuplicate.cpp)
+    - [Intersection of Two Arrays II](./milestone2/arrays/IntersectionofTwoArraysII.cpp)
+    - [Pair Sum](./milestone2/arrays/PairSum.cpp)
+    - [Triplet Sum](./milestone2/arrays/TripletSum.cpp)
+    - [Sort 0 1](./milestone2/arrays/Sort01.cpp)
     
 # Coding Ninjas
 ## Rate my Repo ⭐!!!
