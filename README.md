@@ -1,4 +1,4 @@
-This repo includes all C++ problems for Coding Ninja C++ Fundamental course. Please give a star in this repo if you like it.
+This repo includes all C++ problems for Coding Ninja Introduction to C++ course. Please give a star in this repo if you like it.
 
 This repo includes:
 - [Milestone 1](./milestone1/)
