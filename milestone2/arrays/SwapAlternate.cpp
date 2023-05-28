@@ -14,14 +14,10 @@
 void swapAlternate(int *arr, int size)
 {
     int temp;
-    int i = 0, j = i+1;
-    
-    while(j < size){
+    for(int i=0; i<size-1; i+=2){
         temp = arr[i];
-        arr[i] = arr[j];
-        arr[j] = temp;
-        i=i+2;
-        j=i+1;
+        arr[i] = arr[i+1];
+        arr[i+1] = temp;
     }
 }
 
