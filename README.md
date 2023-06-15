@@ -56,6 +56,17 @@ This repo includes:
     - [Pair Sum](./milestone2/arrays/PairSum.cpp)
     - [Triplet Sum](./milestone2/arrays/TripletSum.cpp)
     - [Sort 0 1](./milestone2/arrays/Sort01.cpp)
+  - [Searching and Sorting](./milestone2/SearchingandSorting/)
+    - [Code Binary Search](./milestone2/SearchingandSorting/CodeBinarySearch.cpp)
+    - [Code Bubble Sort](./milestone2/SearchingandSorting/CodeBubbleSort.cpp)
+    - [Code Insertion Sort](./milestone2/SearchingandSorting/CodeInsertionSort.cpp)
+    - [Code Merge Two Sorted Arrays](./milestone2/SearchingandSorting/CodeMergeTwoSortedArrays.cpp)
+    - [Push Zeros to end](./milestone2/SearchingandSorting/PushZerostoend.cpp)
+    - [Rotate array](./milestone2/SearchingandSorting/Rotatearray.cpp)
+    - [Second Largest in array](./milestone2/SearchingandSorting/SecondLargestinarray.cpp)
+    - [Check Array Rotation](./milestone2/SearchingandSorting/CheckArrayRotation.cpp)
+    - [Sort 0 1 2](./milestone2/SearchingandSorting/Sort012.cpp)
+    - [Sum of Two Arrays](./milestone2/SearchingandSorting/SumofTwoArrays.cpp)
     
 # Coding Ninjas
 ## Rate my Repo ⭐!!!
